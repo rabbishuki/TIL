@@ -11,7 +11,10 @@ Today I learned
 So this repo is a list of things that I learned, and hopefully when I have some time, I will turn it in to a website.
 
 ### Categories
-* [JSON](#json) ---
+* [JSON](#json)
+
+
+---
 
 ### Json
 - [Finding errors in a large json file](json/errors-in-large-json.md)
