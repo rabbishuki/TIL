@@ -13,6 +13,9 @@ The file was looking something like this:
 ``` 
 
 So I opened it in my favorite IDE (Webstorm) and was prompted by the IDE that the file is too big for linting.
+![Webstorm error](./errors-in-large-json_1.png)
+
+
 Knowing that a real JSON file looks a bit different, 
 I quickly added a comma to the first char of each line, 
 and `[]` brackets at the beginning and end the file. 
