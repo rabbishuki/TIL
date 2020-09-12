@@ -18,3 +18,7 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### Json
 - [Finding errors in a large json file](json/errors-in-large-json.md)
+
+
+### JS tips
+- [Required Function Parameters](js-tips/required-function-params.md)
