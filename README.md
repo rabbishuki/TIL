@@ -22,3 +22,7 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### JS tips
 - [Required Function Parameters](js-tips/required-function-params.md)
+
+
+### Git
+- [Unwatch git file](git/unwatch-git-file.md)
