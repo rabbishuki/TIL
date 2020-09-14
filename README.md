@@ -12,6 +12,9 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### Categories
 * [JSON](#json)
+* [Javascript](#javascript)
+* [Git](#git)
+* [CSS](#css)
 
 
 ---
@@ -20,9 +23,13 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 - [Finding errors in a large json file](json/errors-in-large-json.md)
 
 
-### JS tips
+### Javascript
 - [Required Function Parameters](js-tips/required-function-params.md)
 
 
 ### Git
 - [Unwatch git file](git/unwatch-git-file.md)
+
+
+### CSS
+- [Collapsing a grid column](css/collapsing-a-grid-column.md)
