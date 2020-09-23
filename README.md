@@ -32,6 +32,7 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### TSLint
 - [Whitespace error on new line](tslint/whitespace-error-on-new-line.md)
+- [Unnecessary semicolon arrow function](tslint/unnecessary-semicolon-arrow-function.md)
 
 
 ### Json
