@@ -10,14 +10,20 @@ Today I learned
 
 So this repo is a list of things that I learned, and hopefully when I have some time, I will turn it in to a website.
 
-### Categories
+### Tools
+* [Git](#git)
+
+### Programming Languages
 * [JSON](#json)
 * [Javascript](#javascript)
-* [Git](#git)
 * [CSS](#css)
 
 
 ---
+
+### Git
+- [Unwatch git file](git/unwatch-git-file.md)
+
 
 ### Json
 - [Finding errors in a large json file](json/errors-in-large-json.md)
@@ -25,10 +31,6 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### Javascript
 - [Required Function Parameters](js-tips/required-function-params.md)
-
-
-### Git
-- [Unwatch git file](git/unwatch-git-file.md)
 
 
 ### CSS
