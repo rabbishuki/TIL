@@ -12,6 +12,10 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### Tools
 * [Git](#git)
+* [TSLint](#tslint)
+
+
+---
 
 ### Programming Languages
 * [JSON](#json)
@@ -20,9 +24,14 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 
 ---
+---
 
 ### Git
 - [Unwatch git file](git/unwatch-git-file.md)
+
+
+### TSLint
+- [Whitespace error on new line](tslint/whitespace-error-on-new-line.md)
 
 
 ### Json
