@@ -49,3 +49,5 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### CSS
 - [Collapsing a grid column](css/collapsing-a-grid-column.md)
+- [max-width for @media query not working](css/max-width-for-media-query-not-working.md)
+
