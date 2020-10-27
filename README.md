@@ -45,6 +45,7 @@ So this repo is a list of things that I learned, and hopefully when I have some 
 
 ### Javascript
 - [Required Function Parameters](js-tips/required-function-params.md)
+- [Remove a parameter from object (ES6)](js-tips/remove-a-parameter-from-object-(ES6).md)
 
 
 ### CSS
